@@ -1,0 +1,1 @@
+In this directory the card files and the sound files are stored. 
